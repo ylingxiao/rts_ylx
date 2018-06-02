@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [19/May/2018:06:52:32 +0800] "GET /js/cart.js?v=20160713 HTTP/1.1" 304 - http-bio-8086-exec-2 3
+0:0:0:0:0:0:0:1 - - [19/May/2018:06:52:32 +0800] "GET /item/152662661076290.html HTTP/1.1" 200 161794 http-bio-8086-exec-1 1876
+0:0:0:0:0:0:0:1 - - [19/May/2018:06:52:32 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-8 2
+0:0:0:0:0:0:0:1 - - [19/May/2018:06:56:17 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8086-exec-10 2
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:06:39 +0800] "GET /item/152662661076290.html HTTP/1.1" 200 161794 http-bio-8086-exec-1 277
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:11:24 +0800] "GET /item/152662661076290.html HTTP/1.1" 200 161794 http-bio-8086-exec-9 13
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:12:57 +0800] "GET /item/152662661076290.html HTTP/1.1" 200 161794 http-bio-8086-exec-6 13
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:17:17 +0800] "GET /item/152662661076290.html HTTP/1.1" 200 161794 http-bio-8086-exec-3 15
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:18:49 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8086-exec-1 1
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:18:50 +0800] "GET /item/152662661076290.html HTTP/1.1" 200 161809 http-bio-8086-exec-2 53
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:18:50 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8086-exec-5 1
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:19:47 +0800] "GET /productlist/search?inputBox=1&categoryId=0&keyword=%E6%8B%93%E7%89%87 HTTP/1.1" 404 987 http-bio-8086-exec-4 1
+0:0:0:0:0:0:0:1 - - [19/May/2018:07:20:02 +0800] "GET /productlist/search?inputBox=1&categoryId=0&keyword=%E6%8B%93%E7%89%87 HTTP/1.1" 404 987 http-bio-8086-exec-7 1

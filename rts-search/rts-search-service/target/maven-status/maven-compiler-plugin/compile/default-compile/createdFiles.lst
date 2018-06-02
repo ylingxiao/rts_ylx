@@ -1,0 +1,6 @@
+cn\ylx\search\message\ItemAddMessageListener.class
+cn\ylx\search\mapper\ItemMapper.class
+cn\ylx\search\service\impl\SearchItemServiceImpl.class
+cn\ylx\search\service\impl\SearchServiceImpl.class
+cn\ylx\search\message\MyMessageListener.class
+cn\ylx\search\dao\SearchDao.class
